@@ -1,5 +1,11 @@
 ## Jonathan Whittle
 ### Senior software engineer out of Louisville, KY
+<a href="www.linkedin.com/in/itsthewhittlethings">
+  <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/JonathanWhittle">
+  <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="LinkedIn">
+</a>
 
 ### Education
 - B.A. Philosophy/Religion, Clemson University
