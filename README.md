@@ -1,5 +1,5 @@
 ## Jonathan Whittle
-### Full-Stack software engineer out of Louisville, KY
+### Senior software engineer out of Louisville, KY
 
 ### Education
 - B.A. Philosophy/Religion, Clemson University
