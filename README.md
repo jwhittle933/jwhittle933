@@ -6,6 +6,7 @@
 <a href="https://twitter.com/JonathanWhittle">
   <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="LinkedIn">
 </a>
+<hr>
 
 ### Education
 - B.A. Philosophy/Religion, Clemson University
@@ -37,7 +38,6 @@
 ![.NET](https://img.shields.io/badge/-.NET-172226?logo=.net)
 ![C#](https://img.shields.io/badge/-CSharp-172226?logo=csharp)
 ![C](https://img.shields.io/badge/-C-172226?logo=c)
-![Bash](https://img.shields.io/badge/-Bash-172226?logo=gnubash)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-172226?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-172226?logo=mysql)
@@ -55,10 +55,12 @@
 ![Git](https://img.shields.io/badge/-Git-172226?logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-172226?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-172226?logo=kubernetes)
+![Bash](https://img.shields.io/badge/-Bash-172226?logo=gnubash)
 <br>
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-172226?logo=githubactions)
 ![ADO](https://img.shields.io/badge/-AzureDevOps-172226?logo=azuredevops)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-172226?logo=jenkins)
+![Travis](https://img.shields.io/badge/-Travis-172226?logo=travisci)
 <br>
 ![Spacemacs](https://img.shields.io/badge/-Spacemacs-172226?logo=spacemacs)
 ![Emacs](https://img.shields.io/badge/-Emacs-172226?logo=gnuemacs)
