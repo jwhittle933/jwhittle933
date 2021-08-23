@@ -6,6 +6,9 @@ const (
 	None = ""
 	ColorPrimary = "011125"
 	ColorSecondary = "172226"
+	ColorAWS = "232F3E"
+	ColorAzure = "0078D4"
+	ColorHeroku = "430098"
 )
 
 func New(left, right, color, style, icon string) string {
