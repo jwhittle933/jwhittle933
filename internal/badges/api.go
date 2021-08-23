@@ -8,21 +8,29 @@ const (
 	ColorSecondary = "172226"
 )
 
-func New(left, right, color, icon string) string {
+func New(left, right, color, style, icon string) string {
 	return fmt.Sprintf(
-		"https://img.shields.io/badge/%s%s%s.svg?logo=%s",
-		valueOrDash(left),
-		valueOrDash(right),
-		valueOrDash(color),
+		"https://img.shields.io/badge/%s-%s-%s.svg?%slogo=%s",
+		left,
+		right,
+		colorOrIgnore(color),
+		styleOrNone(style),
 		icon,
 	)
 }
 
-func valueOrDash(s string) string {
+func styleOrNone(s string) string {
 	if s == "" {
-		return "-"
+		return s
+	}
+
+	return fmt.Sprintf("style=%s&", s)
+}
+
+func colorOrIgnore(s string) string {
+	if s == "" {
+		return "_"
 	}
 
 	return s
 }
-

@@ -1,10 +1,10 @@
 # Jonathan Whittle
 ### Senior software engineer out of Louisville, KY
 <a href="https://www.linkedin.com/in/itsthewhittlethings">
-  <img src="https://img.shields.io/badge/LinkedIn--.svg?logo=linkedin" alt="linkedin badge">
+  <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin badge">
 </a>
 <a href="https://twitter.com/JonathanWhittle">
-  <img src="https://img.shields.io/badge/Twitter--.svg?logo=twitter" alt="twitter badge">
+  <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="twitter badge">
 </a>
 <hr>
 
@@ -19,5 +19,5 @@
 - Language/Linguistics (Classical Hebrew, Classical/Hellenistic Greek, Latin, Aramaic, Syriac, Ugaritic, German, French)
 
 ### Technologies
-![Go](https://img.shields.io/badge/GoExpert011125.svg?logo=Go)
-![Rust](https://img.shields.io/badge/RustEnthusiast011125.svg?logo=rust)
+![Go](https://img.shields.io/badge/Go-Expert-011125.svg?logo=Go)
+![Rust](https://img.shields.io/badge/Rust-Enthusiast-011125.svg?logo=rust)

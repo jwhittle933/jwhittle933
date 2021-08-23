@@ -23,7 +23,7 @@ func main() {
 		rm,
 		"https://www.linkedin.com/in/itsthewhittlethings",
 		markdown.Img(
-			badges.New("LinkedIn", badges.None, badges.None, "linkedin"),
+			badges.New("LinkedIn", badges.None, badges.None, "social", "linkedin"),
 			"linkedin badge",
 		),
 	)
@@ -31,7 +31,7 @@ func main() {
 		rm,
 		"https://twitter.com/JonathanWhittle",
 		markdown.Img(
-			badges.New("Twitter", badges.None, badges.None, "twitter"),
+			badges.New("Twitter", badges.None, badges.None, "social", "twitter"),
 			"twitter badge",
 		),
 	)
@@ -60,6 +60,6 @@ func main() {
 
 
 	markdown.H3(rm, "Technologies")
-	markdown.Link(rm, "Go", badges.New("Go", "Expert", badges.ColorPrimary, "Go"))
-	markdown.Link(rm, "Rust", badges.New("Rust", "Enthusiast", badges.ColorPrimary, "rust"))
+	markdown.Link(rm, "Go", badges.New("Go", "Expert", badges.ColorPrimary, "", "Go"))
+	markdown.Link(rm, "Rust", badges.New("Rust", "Enthusiast", badges.ColorPrimary, "", "rust"))
 }
