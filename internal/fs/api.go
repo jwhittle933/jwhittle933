@@ -3,7 +3,7 @@ package fs
 import (
 	"errors"
 	"fmt"
-	"io"
+	"io/ioutil"
 	"os"
 	"path/filepath"
 	"strings"
@@ -11,8 +11,7 @@ import (
 
 type File struct {
 	filename string
-	f        *os.File
-	staging  *os.File
+	final    *os.File
 }
 
 func Open(filename string) (*File, error) {
@@ -21,33 +20,36 @@ func Open(filename string) (*File, error) {
 		return nil, errors.New("file must be markdown with ext .md")
 	}
 
-	final, err := os.Open(filename)
+	final, err := os.OpenFile(filename, os.O_TRUNC|os.O_WRONLY, os.ModePerm)
 	if err != nil {
 		return nil, err
 	}
 
-	staging, err := os.Create(previewFile(filename, ext))
-	if err != nil {
-		return nil, err
-	}
-
-	return &File{filename, final, staging}, nil
+	return &File{filename, final}, nil
 }
 
 func (f *File) Write(content []byte) (int, error) {
-	return f.staging.Write(content)
+	return f.final.Write(content)
 }
 
 func (f *File) Flush() error {
-	if _, err := os.Stat(f.filename); err != nil {
+	preview := previewFile(f.filename, ".md")
+	if _, err := os.Stat(preview); err != nil {
 		return err
 	}
 
-	if _, err := io.Copy(f.staging, f.f); err != nil {
+	old, err := ioutil.ReadAll(f.final)
+	if err != nil {
 		return err
 	}
 
-	if err := os.Remove(previewFile(f.filename, ".md")); err != nil {
+	fmt.Println("README.md >>>>>", string(old))
+
+	if err := os.Remove("README.md"); err != nil {
+		return err
+	}
+
+	if err := os.Rename(preview, "README.md"); err != nil {
 		return err
 	}
 
@@ -55,9 +57,7 @@ func (f *File) Flush() error {
 }
 
 func (f *File) Close() error {
-	f.f.Close()
-	f.staging.Close()
-	return nil
+	return f.final.Close()
 }
 
 func previewFile(filename, ext string) string {

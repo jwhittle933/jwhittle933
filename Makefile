@@ -1,6 +1,7 @@
 cmd ?= gen
 build:
-	@GOOS=darwin GOARCH=amd64 go build -o ./bin/$(cmd) ./cmd/$(cmd)
+	@go build -o ./bin/gen ./cmd/gen
+	@go build -o ./bin/commit ./cmd/commit
 .PHONY: build
 
 bin:
@@ -16,5 +17,5 @@ gen:
 .PHONY: gen
 
 commit:
-	@./bin/commit
+	./bin/commit
 .PHONY: commit

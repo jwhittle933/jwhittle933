@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+	fmt.Println("Opening README...")
 	readme, err := fs.Open("README.md")
 	if err != nil {
 		fmt.Printf("ERROR: %s\n", err.Error())
@@ -27,14 +28,14 @@ func main() {
 			"linkedin badge",
 		),
 	)
-	markdown.Anchor(
-		readme,
-		"https://twitter.com/JonathanWhittle",
-		markdown.Img(
-			badges.New("Twitter", badges.None, badges.None, "social", "twitter"),
-			"twitter badge",
-		),
-	)
+	//markdown.Anchor(
+	//	readme,
+	//	"https://twitter.com/JonathanWhittle",
+	//	markdown.Img(
+	//		badges.New("Twitter", badges.None, badges.None, "social", "twitter"),
+	//		"twitter badge",
+	//	),
+	//)
 	markdown.HR(readme)
 	markdown.NewLine(readme)
 
@@ -109,4 +110,6 @@ func main() {
 	markdown.Link(readme, "Emacs", badges.New(badges.None, "Emacs", badges.ColorSecondary, "", "gnuemacs"))
 	markdown.Link(readme, "Vim", badges.New(badges.None, "Vim", badges.ColorSecondary, "", "vim"))
 	markdown.BR(readme)
+
+	fmt.Println("Finished.")
 }

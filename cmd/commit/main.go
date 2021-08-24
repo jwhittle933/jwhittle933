@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+	fmt.Println("Opening file...")
 	readme, err := fs.Open("README.md")
 	if err != nil {
 		fmt.Printf("ERROR: %s\n", err.Error())
@@ -15,6 +16,7 @@ func main() {
 	}
 	defer readme.Close()
 
+	fmt.Println("Flushing file...")
 	if err := readme.Flush(); err != nil {
 		fmt.Printf("ERROR flushing: %s\n", err.Error())
 	}
