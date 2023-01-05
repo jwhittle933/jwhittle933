@@ -15,12 +15,12 @@
 - Personal Trainer/Body Building (10+ years)
 - Language/Linguistics (Classical Hebrew, Classical/Hellenistic Greek, Latin, Aramaic, Syriac, Ugaritic, German, French)
 
-### Technologies
-![Go](https://img.shields.io/badge/Go-Pro-011125.svg?logo=Go)
-![Rust](https://img.shields.io/badge/Rust-Pro-011125.svg?logo=rust)
-![Elixir](https://img.shields.io/badge/Elixir-Enthusiast-011125.svg?logo=elixir)
-![Clojure](https://img.shields.io/badge/Clojure-Enthusiast-011125.svg?logo=clojure)
-![JavaScript](https://img.shields.io/badge/JavaScript-Pro-011125.svg?logo=javascript)
+### Experience
+![Rust](https://img.shields.io/badge/Rust-Pro-011125.svg?logo=rust&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-Pro-011125.svg?logo=Go&style=for-the-badge)
+![Elixir](https://img.shields.io/badge/Elixir-Enthusiast-011125.svg?logo=elixir&style=for-the-badge)
+![Clojure](https://img.shields.io/badge/Clojure-Enthusiast-011125.svg?logo=clojure&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Pro-011125.svg?logo=javascript&style=for-the-badge)
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-172226.svg?logo=typescript)
 ![Node](https://img.shields.io/badge/-Nodejs-172226.svg?logo=node.js)
