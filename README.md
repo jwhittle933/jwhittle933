@@ -35,6 +35,8 @@
 ![.NET](https://img.shields.io/badge/-.NET-172226.svg?logo=.net)
 ![C#](https://img.shields.io/badge/-Csharp-172226.svg?logo=csharp)
 ![C](https://img.shields.io/badge/-C-172226.svg?logo=c)
+![C++](https://img.shields.io/badge/-C++-172226.svg?logo=cplusplus)
+![Lua](https://img.shields.io/badge/-Lua-172226.svg?logo=lua)
 <br>
 ![Postgres](https://img.shields.io/badge/-Postgres-172226.svg?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-172226.svg?logo=mysql)
@@ -62,4 +64,8 @@
 ![Spacemacs](https://img.shields.io/badge/-Spacemacs-172226.svg?logo=spacemacs)
 ![Emacs](https://img.shields.io/badge/-Emacs-172226.svg?logo=gnuemacs)
 ![Vim](https://img.shields.io/badge/-Vim-172226.svg?logo=vim)
+![NVim](https://img.shields.io/badge/-Neovim-172226.svg?logo=neovim)
+<br>
+![Linux](https://img.shields.io/badge/-Linux-172226.svg?logo=linux)
+![Arch](https://img.shields.io/badge/-Arch-172226.svg?logo=archlinux)
 <br>
