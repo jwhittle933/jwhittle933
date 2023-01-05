@@ -17,7 +17,7 @@
 
 ### Experience
 ![Rust](https://img.shields.io/badge/Rust-Pro-011125.svg?logo=rust&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-Pro-011125.svg?logo=Go&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-Pro-011125.svg?logo=go&style=for-the-badge)
 ![Elixir](https://img.shields.io/badge/Elixir-Enthusiast-011125.svg?logo=elixir&style=for-the-badge)
 ![Clojure](https://img.shields.io/badge/Clojure-Enthusiast-011125.svg?logo=clojure&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Pro-011125.svg?logo=javascript&style=for-the-badge)
@@ -43,6 +43,7 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-172226.svg?logo=microsoftsqlserver)
 ![Mongo](https://img.shields.io/badge/-MongoDB-172226.svg?logo=mongodb)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-172226.svg?logo=elasticsearch)
+![Dynamo](https://img.shields.io/badge/-DynamoDB-172226.svg?logo=amazondynamodb)
 <br>
 ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4.svg?logo=microsoftazure)
@@ -68,4 +69,7 @@
 <br>
 ![Linux](https://img.shields.io/badge/-Linux-172226.svg?logo=linux)
 ![Arch](https://img.shields.io/badge/-Arch-172226.svg?logo=archlinux)
+![Apple](https://img.shields.io/badge/-Apple-172226.svg?logo=apple)
+![Arduino](https://img.shields.io/badge/-Arduino-172226.svg?logo=arduino)
+![micro:bit](https://img.shields.io/badge/-micro:bit-172226.svg?logo=microbit)
 <br>
