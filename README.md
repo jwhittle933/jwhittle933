@@ -9,7 +9,7 @@
 ### Education
 - B.A. Philosophy/Religion, Clemson University
 - M.Div Ancient Near Eastern Language and Linguistics, The Southern Baptist Theological Seminary
-- Th.M Hebrew Bible/Septuagint, The Southern Baptist Theological Seminary, __Thesis__: _Double Renderings in Greek Proverbs 1-9_
+- Th.M Hebrew Bible/Septuagint, The Southern Baptist Theological Seminary, __Thesis__: [_Double Renderings in the Septuagint of Proverbs 1-9_](https://repository.sbts.edu/handle/10392/6591)
 
 ### Hobbies
 - Musician (20+ years)
