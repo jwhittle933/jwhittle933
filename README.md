@@ -16,11 +16,11 @@
 - Language/Linguistics (Classical Hebrew, Classical/Hellenistic Greek, Latin, Aramaic, Syriac, Ugaritic, German, French)
 
 ### Technologies
-![Go](https://img.shields.io/badge/Go-Expert-011125.svg?logo=Go)
-![Rust](https://img.shields.io/badge/Rust-Enthusiast-011125.svg?logo=rust)
+![Go](https://img.shields.io/badge/Go-Pro-011125.svg?logo=Go)
+![Rust](https://img.shields.io/badge/Rust-Pro-011125.svg?logo=rust)
 ![Elixir](https://img.shields.io/badge/Elixir-Enthusiast-011125.svg?logo=elixir)
 ![Clojure](https://img.shields.io/badge/Clojure-Enthusiast-011125.svg?logo=clojure)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-011125.svg?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-Pro-011125.svg?logo=javascript)
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-172226.svg?logo=typescript)
 ![Node](https://img.shields.io/badge/-Nodejs-172226.svg?logo=node.js)
