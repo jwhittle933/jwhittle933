@@ -50,6 +50,7 @@
 ![Git](https://img.shields.io/badge/-Git-172226.svg?logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-172226.svg?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-172226.svg?logo=kubernetes)
+![Helm](https://img.shields.io/badge/-Helm-172226.svg?logo=helm)
 ![Bash](https://img.shields.io/badge/-Bash-172226.svg?logo=gnubash)
 <br>
 ![GitHub Actions](https://img.shields.io/badge/-GitHubActions-172226.svg?logo=githubactions)
