@@ -1,5 +1,6 @@
 # Jonathan Whittle
-### Senior software engineer out of Lexington, SC
+### Senior Data Engineer 
+#### Lexington, SC
 <a href="https://www.linkedin.com/in/itsthewhittlethings">
   <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin badge">
 </a>
