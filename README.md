@@ -53,7 +53,7 @@
 ![Dynamo](https://img.shields.io/badge/-DynamoDB-172226.svg?logo=amazondynamodb)
 <br>
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws)
+![AWS](https://img.shields.io/badge/-AWS-ff9900.svg?logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4.svg?logo=microsoftazure)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku)
 ![CF](https://img.shields.io/badge/-CloudFoundry-172226.svg?logo=cloudfoundry)
