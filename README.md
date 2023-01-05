@@ -38,6 +38,7 @@
 ![C++](https://img.shields.io/badge/-C++-172226.svg?logo=cplusplus)
 ![Lua](https://img.shields.io/badge/-Lua-172226.svg?logo=lua)
 <br>
+![GraphQL](https://img.shields.io/badge/-GraphQL-172226.svg?logo=graphql)
 ![Postgres](https://img.shields.io/badge/-Postgres-172226.svg?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-172226.svg?logo=mysql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-172226.svg?logo=microsoftsqlserver)
@@ -72,4 +73,5 @@
 ![Apple](https://img.shields.io/badge/-Apple-172226.svg?logo=apple)
 ![Arduino](https://img.shields.io/badge/-Arduino-172226.svg?logo=arduino)
 ![micro:bit](https://img.shields.io/badge/-micro:bit-172226.svg?logo=microbit)
+![Pi](https://img.shields.io/badge/-Pi-172226.svg?logo=raspberrypi)
 <br>
