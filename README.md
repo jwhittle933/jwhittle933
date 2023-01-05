@@ -57,7 +57,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-172226.svg?logo=helm)
 ![Bash](https://img.shields.io/badge/-Bash-172226.svg?logo=gnubash)
 <br>
-![GitHub Actions](https://img.shields.io/badge/-GitHubActions-172226.svg?logo=githubactions)
+![Actions](https://img.shields.io/badge/-GitHubActions-172226.svg?logo=githubactions)
 ![Argo](https://img.shields.io/badge/-Argo-172226.svg?logo=argo)
 ![ADO](https://img.shields.io/badge/-AzureDevOps-172226.svg?logo=azuredevops)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-172226.svg?logo=jenkins)
