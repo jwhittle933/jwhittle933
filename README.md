@@ -84,5 +84,5 @@
 ![Apple](https://img.shields.io/badge/-Apple-172226.svg?logo=apple)
 ![Arduino](https://img.shields.io/badge/-Arduino-172226.svg?logo=arduino)
 ![micro:bit](https://img.shields.io/badge/-micro:bit-172226.svg?logo=microbit)
-![Pi](https://img.shields.io/badge/-Pi-172226.svg?logo=raspberrypi)
+![Pi](https://img.shields.io/badge/-Pi-cd2355.svg?logo=raspberrypi)
 <br>
