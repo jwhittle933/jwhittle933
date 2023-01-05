@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/itsthewhittlethings">
   <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="linkedin badge">
 </a>
+<a href="https://leetcode.com/awhittlecrazy/">
+  <img src="https://img.shields.io/badge/Leetcode--1a1a1a.svg?style=social&logo=leetcode" alt="leetcode badge">
+</a>
 <hr>
 
 ### Education
