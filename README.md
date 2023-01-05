@@ -14,7 +14,6 @@
 - Musician (20+ years)
 - Personal Trainer/Body Building (10+ years)
 - Language/Linguistics (Classical Hebrew, Classical/Hellenistic Greek, Latin, Aramaic, Syriac, Ugaritic, German, French)
-  - Th.M, Septuagint/Hebrew Bible. Thesis: _Double Renderings in Greek Proverbs 1-9_
 
 ### Experience
 ![Rust](https://img.shields.io/badge/Rust-Pro-011125.svg?logo=rust&style=for-the-badge)
